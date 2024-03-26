@@ -4,7 +4,7 @@ This project is a clone of the desktop Spotify web app, implemented to practice 
 
 ## Host Link
 
-The project is hosted on [GitHub Pages](https://github.com/your_username/spotify-clone), where you can view it live.
+The project is hosted on [GitHub Pages](https://prathik-poojari.github.io/Spotify-Clone/), where you can view it live.
 
 ## Technologies Used
 
